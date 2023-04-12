@@ -58,7 +58,7 @@
 - [Curso do Cod3r Cursos](https://www.youtube.com/watch?v=NCrWXZtlc7Q&list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3)
 - [Curso do João Ribeiro](https://www.youtube.com/watch?v=KZrMuOEk1cE&list=PLXik_5Br-zO9Rly_0vxD4p1TF8z7p6Dx5)
 
-## Parte 3 | Aprender a usar ferramentas
+## Extras
 
 ### 📚 | UX e UI
 
