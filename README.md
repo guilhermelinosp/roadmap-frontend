@@ -1,4 +1,4 @@
-# <div align="center"> Roadmap Front end </div>
+# <div align="center"> Roadmap Frontend </div>
 
 ## Parte 1 | Conhecimento básico
 
